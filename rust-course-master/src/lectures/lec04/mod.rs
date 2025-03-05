@@ -1,0 +1,15 @@
+mod a10char;
+mod a11utf8;
+mod a13parsing;
+mod a14formatting;
+mod a15question;
+mod a16range;
+mod a1creation;
+mod a2concatenation;
+mod a3search;
+mod a4case;
+mod a5edit;
+mod a6slices;
+mod a7iteration;
+mod a8split;
+mod a9colored;
